@@ -4,3 +4,4 @@ To Do List is a single page web app that lets users manage a simple list of task
 click here for website: https://harshsharmaaaaaa.github.io/TODO-LIST/
 
 ![image](https://github.com/HarshSharmaaaaaa/TODO-LIST/assets/126580097/9d780367-2186-46dd-bd13-23f7dee1f014)
+![image](https://github.com/HarshSharmaaaaaa/TODO-LIST/assets/126580097/b3281375-c4a9-4158-931e-b7b353c9b392)
