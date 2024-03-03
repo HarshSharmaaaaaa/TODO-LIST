@@ -43,8 +43,6 @@ filter.addEventListener("keyup",function(e){
         item.style.display ="none"
 
         
-
-        
     }
 })
 })
